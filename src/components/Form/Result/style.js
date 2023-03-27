@@ -24,7 +24,7 @@ const styles= StyleSheet.create({
     },
 
     msgResultado:{
-        fontsize: 22,
+        fontSize: 22,
         color:'#fff',
         textAlign:'center',
         padding:10,
